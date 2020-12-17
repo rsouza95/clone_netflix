@@ -1,2 +1,2 @@
 # clone_netflix
-Recriação da página do Netflix
+Recriação da Interface do Netflix
